@@ -1,5 +1,3 @@
-Perfect 👌 Here’s your polished **`README.md`** with badges added for **React Native, Expo, Zustand, and Cloudinary**:
-
 ````markdown
 # 📚 BookWorms Mobile App
 
@@ -37,14 +35,13 @@ The app provides personalized book recommendations, user reviews, and a smooth r
 
 ## 📸 Screenshots
 
-| Sign Up | Login | Home |
-|---------|-------|------|
-| ![SignUp](../mobile/assets/images/s.jpeg) | ![Login](../mobile/assets/images/l.jpeg) | ![Home](../mobile/assets/images/h.jpeg) |
+| Sign Up                                  | Login                                   | Home                                   |
+| ---------------------------------------- | --------------------------------------- | -------------------------------------- |
+| ![SignUp](./mobile/assets/images/s.jpeg) | ![Login](./mobile/assets/images/l.jpeg) | ![Home](./mobile/assets/images/h.jpeg) |
 
-| Create | Profile |
-|--------|---------|
-| ![Create](../mobile/assets/images/c.jpeg) | ![Profile](../mobile/assets/images/p.jpeg) |
-
+| Create                                   | Profile                                   |
+| ---------------------------------------- | ----------------------------------------- |
+| ![Create](./mobile/assets/images/c.jpeg) | ![Profile](./mobile/assets/images/p.jpeg) |
 
 ## 🚀 Getting Started
 
@@ -55,7 +52,11 @@ git clone https://github.com/Grishj/bookhub
 cd BookWorms
 cd mobile -> npm install-> npx expo start
 ```
+
 cd backend -> npm install -> npm run dev
+
+```
+
 ```
 ````
 
